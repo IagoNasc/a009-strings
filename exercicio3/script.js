@@ -7,9 +7,6 @@ console.log(fraseNova2);
 
 console.log(fraseNova2.includes("verde"));
 console.log(fraseNova2.includes("laranja"));
-console.log(fraseNova2.toUpperCase());
 
-
-
-
-
+const fraseNova3 = (frase.replaceAll ("mas não deixe o gato sair", "MAS NÃO DEIXE O GATO SAIR"))
+console.log(fraseNova3);
